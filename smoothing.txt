@@ -1,0 +1,16 @@
+If q equals to 0.0:
+	The accuracy cannot be computed in this way, as log(0) will cause math domain error of python. If don't use log, then it will cause underflow. So I used 0.000000001 instead. The accuracy is 0.8333
+
+If q equals to 0.1:
+	The accuracy is 0.8333
+
+If q equals to 0.5:
+	The accuracy is 0.8333
+
+If q equals to 1.0:
+	The accuracy is 0.8056
+
+If q equals to 1.5:
+	The accuracy is 0.7778
+
+So it seems that a smaller value, which might be very close to 0, is a great choice.

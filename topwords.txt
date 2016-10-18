@@ -1,0 +1,46 @@
+1) They looks very very similar
+2) There are many many overlapping words
+3) They are mostly pronouns, conjunctions, which are frequently used to link or represent phrases or words, to make sentences more integrity. They are mostly meanlingless.
+
+Here is the list:
+the 0.0442
+to 0.0221
+of 0.0196
+and 0.0184
+a 0.0173
+in 0.0128
+that 0.0108
+is 0.0098
+for 0.0083
+on 0.0072
+i 0.0069
+this 0.0067
+it 0.0065
+by 0.006
+at 0.0048
+with 0.0044
+as 0.0043
+you 0.0041
+be 0.0039
+was 0.0039
+
+the 0.0521
+to 0.0249
+of 0.0237
+and 0.0201
+a 0.0193
+in 0.0149
+that 0.0112
+is 0.011
+for 0.0084
+i 0.0076
+it 0.0072
+on 0.007
+this 0.0065
+by 0.0055
+with 0.005
+be 0.005
+have 0.0048
+was 0.0048
+as 0.0047
+are 0.0046

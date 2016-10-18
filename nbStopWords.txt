@@ -1,0 +1,4 @@
+I have sampled N for many values, but it seems that if N is smaller than 20, then the result mostly remains the same.
+As I further increased the value of N to 50 - 8000, it seems that the accuracy is slightly improvement, but not very significantly.
+As I increased the value of N to 15000 - 30000, the accuracy significantly improved.
+As I increased the value to larger than 40000, the accuracy significantly decreased.
